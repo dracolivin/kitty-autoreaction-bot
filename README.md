@@ -1,5 +1,19 @@
-# kitty-autoreaction-bot
-fully customizable discord auto-reaction bot.
-commands: kiss,slap,punch,hug,!setprefix,!autoreact @user (emoji),!autoreactoff,!help, etc
+kitty discord bot
+autoreaction,fun,community
+Discord Server https://discord.gg/matter -
 
-creator - dracolivin.
+Overview • Installation • Documentation • Plugins • Community • License
+
+Overview
+kitty is a fully modular bot – meaning all features and commands can be enabled/disabled to your liking, making it completely customizable. This is a self-hosted bot – meaning you will need to host and maintain your own instance. You can turn kitty into an moderationbot,community bot,music bot. new best friend or all of these together!
+
+Installation is easy, and you do NOT need to know anything about coding! Aside from installing and updating, every part of the bot can be controlled from within Discord.
+
+The default set of modules includes and is not limited to:
+
+Moderation features (kick/ban/softban/hackban, mod-log, filter, chat cleanup)
+Music features (YouTube, SoundCloud, local files, playlists, queues)
+Custom commands
+Imgur/gif search
+
+Join us on our Official Discord Server!
