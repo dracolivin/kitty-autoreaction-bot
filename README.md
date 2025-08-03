@@ -1,4 +1,7 @@
 kitty discord bot
+
+![ebf2e5fdba84a0f74f2f096914661d93](https://github.com/user-attachments/assets/1f1c05fb-1ed3-45b8-ac3d-1727c0bdc905)
+
 autoreaction,fun,community
 Discord Server https://discord.gg/matter -
 
