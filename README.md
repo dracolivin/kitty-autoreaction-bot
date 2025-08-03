@@ -1,7 +1,7 @@
 kitty discord bot 
-INVITE LINK:https://discord.com/oauth2/authorize?client_id=1400831508444483715
-![ebf2e5fdba84a0f74f2f096914661d93](https://github.com/user-attachments/assets/1f1c05fb-1ed3-45b8-ac3d-1727c0bdc905)
 
+![ebf2e5fdba84a0f74f2f096914661d93](https://github.com/user-attachments/assets/1f1c05fb-1ed3-45b8-ac3d-1727c0bdc905)
+INVITE LINK:https://discord.com/oauth2/authorize?client_id=1400831508444483715
 autoreaction,fun,community
 Discord Server https://discord.gg/matter -
 
