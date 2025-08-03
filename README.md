@@ -20,3 +20,4 @@ Custom commands
 Imgur/gif search
 
 Join us on our Official Discord Server!
+Discord Server https://discord.gg/matter
